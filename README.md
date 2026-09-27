@@ -39,5 +39,5 @@ Tested on unseen future transactions under a capacity-governed threshold optimiz
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/yourusername/your-repo-name.git](https://github.com/yourusername/your-repo-name.git)
-   cd your-repo-name
+   git clone [https://github.com/Praveen0192/Capacity-Governed-Anti-Money-Laundering-Pipeline-Hybrid-GNN-XGBoost-]
+   
