@@ -1,0 +1,24 @@
+{
+    "alert_metadata": {
+        "target_transaction_id": 194140,
+        "time_step": 0,
+        "illicit_probability": 0.9618,
+        "alert_severity": "CRITICAL"
+    },
+    "model_reasoning_weights": {
+        "structural_network_influence": 0.0122,
+        "raw_transaction_feature_influence": 0.9878,
+        "primary_decision_driver": "Transaction Features (Amount/Velocity)"
+    },
+    "subgraph_topology": {
+        "k_hop_depth": 2,
+        "connected_counterparty_nodes": 12,
+        "inter_entity_transactions": 12,
+        "network_density_flag": "Linear Chain"
+    },
+    "transaction_signals": {
+        "normalized_amount_level": 25.6745,
+        "fee_anomaly_level": -1.2014,
+        "regulatory_typology": "Rapid Multi-Hop Layering and Smurfing Pattern"
+    }
+}

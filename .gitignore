@@ -1,0 +1,6 @@
+moneylaundering/
+__pycache__/
+*.pyc
+.env
+.env*
+.vscode/

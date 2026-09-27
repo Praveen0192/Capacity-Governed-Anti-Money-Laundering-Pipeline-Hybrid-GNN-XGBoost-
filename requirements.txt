@@ -1,0 +1,7 @@
+torch
+torch-geometric
+numpy
+pandas
+xgboost
+scikit-learn
+google-genai
