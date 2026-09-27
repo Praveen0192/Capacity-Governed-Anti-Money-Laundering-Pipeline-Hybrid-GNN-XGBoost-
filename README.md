@@ -1,4 +1,3 @@
-# Capacity-Governed-Anti-Money-Laundering-Pipeline-Hybrid-GNN-XGBoost
 # Capacity-Governed Anti-Money Laundering Pipeline (Hybrid GNN + XGBoost)
 
 ## Project Overview
